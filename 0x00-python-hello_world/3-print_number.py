@@ -2,5 +2,4 @@
 
 number = 98
 
-# YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
-print(% number "%s Battery street")
+print("{:d} Battery street".format(number))
